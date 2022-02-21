@@ -1,0 +1,12 @@
+{
+  "name": "factorymethod",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "yarn tsc && node dist/index.js"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
